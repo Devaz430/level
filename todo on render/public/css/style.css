@@ -1,0 +1,9 @@
+body {
+  font-family: monospace;
+  font-weight: bold;
+  align-content: center;
+  background-color: aliceblue;
+}
+.Todo-Item .trash-icon {
+  display: block;
+}
